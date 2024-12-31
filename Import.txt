@@ -1,0 +1,2 @@
+nom, prenom, email, telephone, salaire, role, poste
+fatima,ouahlim,fatiosua@gmail.com,0987654321,12230,Admin,Pilote
